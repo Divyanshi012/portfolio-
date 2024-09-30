@@ -315,10 +315,7 @@ img {
 }
 .skills__img {
   border-radius: 0.5rem;
-  display: flex;
-  justify-content: center; /* Horizontal alignment */
-  align-items: center;     /* Vertical alignment *
-
+  
 }
 
 /* ===== Certifications =====*/
